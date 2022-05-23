@@ -168,6 +168,7 @@ PRODUCT_PACKAGES += \
     libOMX.Exynos.WMV.Decoder \
     sensors.bio \
     sensors.grip \
+    thermal.exynos9810 \
     libSamsungPostProcessConvertor \
     lib_SoundAlive_SRC384_ver320 \
     lib_soundaliveresampler \
@@ -205,12 +206,9 @@ PRODUCT_PACKAGES += \
     vendor.samsung.hardware.radio.channel@2.0 \
     vendor.samsung.hardware.radio@2.0 \
     vendor.samsung.hardware.radio@2.1 \
-<<<<<<< HEAD
     vendor.samsung.hardware.security.widevine.keyprovisioning@1.0 \
     libaptX_encoder \
     snap_gpu_kernel_64 \
-=======
->>>>>>> 871d092 (exynos9810-common: use DRM widevine HAL from N770FXXU8HVK5)
     cbd \
     android.hardware.drm@1.3-service.widevine \
     gpsd \
